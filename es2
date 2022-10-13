@@ -1,0 +1,3 @@
+#creo gli elenchi (liste) di dati
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
